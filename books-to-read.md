@@ -3,3 +3,4 @@
 A list of good books to read
 
 - The C Programming Language
+- Dune by Frank Herbert
