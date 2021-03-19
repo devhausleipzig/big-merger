@@ -2,4 +2,10 @@
 
 These are the names of the members of the team:
 
-- Your Name Here
+- Altynai
+- Anastasia
+- Belen
+- Gabriel
+- Hannes
+- Jessica
+- Lukas
