@@ -6,5 +6,7 @@ A list of places to visit
 - Gran Canaria
 - Leipzig
 - London
+- Los Angeles
 - Moscow
+- Toronto
 - Zurich
